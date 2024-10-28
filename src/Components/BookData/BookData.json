@@ -1,0 +1,75 @@
+[
+    {
+      "image": "./Book-Images/1.jpg",
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "category": "Fiction",
+      "tags": ["classic", "literature", "American"],
+      "totalPages": 180,
+      "publisher": "Charles Scribner's Sons",
+      "yearOfPublishing": 1925,
+      "rating": 4.4,
+      "details": "Set in the Jazz Age on Long Island, this novel tells the story of Jay Gatsby, a mysterious millionaire, and his obsession with the beautiful Daisy Buchanan. Through its exploration of themes such as decadence, idealism, and social change, Fitzgerald paints a vivid picture of 1920s America. The narrative is rich with symbolism and critiques the American Dream, making it a timeless classic that resonates with readers even today."
+    },
+    {
+      "image": "./Book-Images/2.jpg ",
+      "bookName": "1984",
+      "author": "George Orwell",
+      "category": "Dystopian",
+      "tags": ["political", "fiction", "classic"],
+      "totalPages": 328,
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949,
+      "rating": 4.2,
+      "details": "George Orwell's '1984' is a chilling dystopian novel that delves into the perils of totalitarianism and extreme political ideology. The story follows Winston Smith, a man living in a society under constant surveillance, where the government, led by Big Brother, controls every aspect of life. As Winston grapples with his desire for freedom and truth, the narrative explores themes of oppression, censorship, and the manipulation of language, ultimately serving as a powerful warning about the dangers of unchecked governmental power."
+    },
+    {
+      "image": "./Book-Images/3.jpg",
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "category": "Romance",
+      "tags": ["classic", "literature", "society"],
+      "totalPages": 432,
+      "publisher": "T. Egerton",
+      "yearOfPublishing": 1813,
+      "rating": 4.6,
+      "details": "'Pride and Prejudice' is a romantic novel that examines the nature of love, marriage, and societal expectations in early 19th-century England. The story follows Elizabeth Bennet, a sharp-witted and independent young woman, as she navigates issues of class, family, and personal integrity. Through her complex relationship with the enigmatic Mr. Darcy, Austen critiques the rigid social structures of her time while celebrating the importance of personal growth and understanding in relationships, making it a beloved classic for generations."
+    },
+    {
+      "image": "./Book-Images/4.jpg",
+      "bookName": "Moby Dick",
+      "author": "Herman Melville",
+      "category": "Adventure",
+      "tags": ["classic", "sea", "philosophy"],
+      "totalPages": 635,
+      "publisher": "Harper & Brothers",
+      "yearOfPublishing": 1851,
+      "rating": 4.0,
+      "details": "Herman Melville's 'Moby Dick' is an epic tale of obsession and revenge, centered on Captain Ahab's relentless pursuit of the great white whale, Moby Dick. The novel is narrated by Ishmael, a sailor who joins Ahab's whaling expedition. As the narrative unfolds, Melville delves into profound themes such as fate, existence, and the struggle against nature. The richly descriptive language and complex characters make 'Moby Dick' not just a story of adventure at sea, but a philosophical exploration of the human condition."
+    },
+    {
+      "image": "./Book-Images/5.jpg",
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "category": "Fiction",
+      "tags": ["race", "justice", "coming-of-age"],
+      "totalPages": 281,
+      "publisher": "J.B. Lippincott & Co.",
+      "yearOfPublishing": 1960,
+      "rating": 4.3,
+      "details": "Harper Lee's 'To Kill a Mockingbird' is a profound novel set in the racially charged American South during the 1930s. Through the eyes of Scout Finch, a young girl, the story addresses themes of racial injustice and moral growth. Scout's father, Atticus Finch, serves as a moral beacon as he defends a Black man wrongfully accused of raping a white woman. The novel highlights the importance of empathy and understanding while critiquing the deeply ingrained prejudices of society, making it a powerful read that remains relevant today."
+    },
+    {
+      "image": "./Book-Images/6.jpg",
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "category": "Fiction",
+      "tags": ["coming-of-age", "rebellion", "literature"],
+      "totalPages": 277,
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951,
+      "rating": 4.0,
+      "details": "J.D. Salinger's 'The Catcher in the Rye' follows the story of Holden Caulfield, a disenchanted teenager who has been expelled from multiple prep schools. Narrated in a colloquial style, Holden’s journey through New York City reflects his struggles with identity, alienation, and the transition into adulthood. The novel explores themes of innocence, loss, and the quest for authenticity in a world he perceives as superficial. Its candid portrayal of teenage angst and rebellion has resonated with readers for decades, making it a staple of American literature."
+    }
+  ]
+  

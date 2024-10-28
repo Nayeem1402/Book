@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+*{font-family: "Playfair Display";
+
+}
+
+.b-btn{
+    background-color: #59C6D2;
+    color: white;
+    padding: 15px 28px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 18px;
+    
+}
+.b-btn:hover{
+    background: #6aecf5;
+}
+.g-btn:hover{
+    background: #7ee07a;
+}
+.g-btn{
+    background-color: #23BE0A;
+    color: white;
+    padding: 15px 28px;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+
